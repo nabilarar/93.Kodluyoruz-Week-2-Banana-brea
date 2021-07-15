@@ -1,0 +1,137 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.home
+{
+background-image: url(https://images.unsplash.com/photo-1617319610261-ea6c6594a646?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+background-size: 100% 100%;
+height: 100vh;
+text-align: center;
+color: rgb(211, 155, 129);
+
+}
+
+.home p
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 400%;
+    
+}
+
+.home h1
+{
+    padding: 80px 0px ;
+} 
+
+
+
+.list img
+{
+    border-radius: 50%;
+    margin: 100px 0px 10px 750px;
+    
+}
+    
+
+ul
+{
+    list-style: none;
+}
+
+ul li
+{
+    margin: 20px 0px;
+    font-size: 28px ;
+    text-align: center; 
+}
+
+h2
+{
+    margin: 50px 0px;
+    text-align: center;  
+}
+
+.txst
+{
+    font-size: 26px;   
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.txst img
+{
+    margin: 15px 0px;
+    border-radius: 50%;
+   
+}
+
+.txst h1
+{
+    margin: 50px 0px;
+    text-align: center;  
+}
+
+
+.txst
+{
+    background-color:  rgb(252, 239, 233);
+    margin: 10px 550px 10px 550px;
+
+}
+
+
+.meals
+{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.meals h1
+{
+    font-size: 50px; 
+    margin: 150px 0px 0px 0px ;
+    text-align: center;  
+    color: rgb(211, 155, 129);
+
+    
+}
+
+.meal
+{
+    width: 25%;
+    float: left;
+    text-align: center; 
+}
+
+.meal p
+{
+   padding: 20px 60px;
+}
+
+.meal img
+{
+    margin: 50px 0px 20px 0px;
+    border-radius: 50%;
+    
+}
+
+
+
+.meal .brdr
+{
+    width: 50px;
+    height: 1px;
+    background-color: #ccc;
+    margin: auto;
+}
+
+
+.clearfix
+{
+    clear: both;
+}
